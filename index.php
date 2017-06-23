@@ -4,6 +4,6 @@ echo "Ola <strong>Mundo Novo</strong>!!!";
 
 echo "Olá coisa feia!";
 
-echo "conflito";
+echo "conflito ajustando o conflito";
 
 ?>
